@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+}
+
+.header {
+  background-image: url(/bg.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center .header __h1;
+}
+
+.navig__button {
+  color: black;
+  background-color: blue;
+  width: auto;
+  position: absolute;
+  top: 0%;
+  right: 20%;
+}
+
+/*# sourceMappingURL=style.css.map */
